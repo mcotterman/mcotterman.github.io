@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 -10 175 50" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <view id="pbottom" viewBox="0 28 175 13">
+      <title>Puzzle_Bottom</title>
+    </view>
+    <bx:guide x="161.534" y="40" angle="90"/>
+    <view id="ptop" viewBox="0 -10 175 20">
+      <title>Puzzle_Top</title>
+    </view>
+  </defs>
+  <path d="M 50 -10 C 55.523 -10 60 -5.523 60 0 L 165 0 C 170.523 0 175 4.477 175 10 L 175 30 C 175 35.523 170.523 40 165 40 L 60 40 C 60 34.477 55.523 30 50 30 C 44.477 30 40 34.477 40 40 L 10 40 C 4.477 40 0 35.523 0 30 L 0 10 C 0 4.477 4.477 0 10 0 L 40 0 C 40 -5.523 44.477 -10 50 -10 Z" style="fill: #1E90FF;"/>
+</svg>
