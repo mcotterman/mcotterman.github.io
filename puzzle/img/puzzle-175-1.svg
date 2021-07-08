@@ -5,7 +5,7 @@
       <title>Puzzle_Bottom</title>
     </view>
     <bx:guide x="161.534" y="40" angle="90"/>
-    <view id="ptop" viewBox="0 -10 175 20">
+    <view id="ptop" viewBox="0 -10 175 15">
       <title>Puzzle_Top</title>
     </view>
   </defs>
